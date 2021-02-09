@@ -1,1 +1,1 @@
-Code that I used was allowed to share for deep learning applications while I was in CERN in 2019. I used many versions of these same files. Mostly the GAN models were altered in models.py.
+Code that I used and was allowed to share that I made in 2019 while at CERN. We trained GANs for particle track reconstruction at the LHC. I used many versions of these same files. Mostly the GAN models were altered in models.py.
